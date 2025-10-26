@@ -4,6 +4,8 @@
 > Switch easily between environments, clients, or databases — via **CLI or API**.
 
 [![npm version](https://img.shields.io/npm/v/multi-connectionstring.svg)](https://www.npmjs.com/package/multi-connectionstring)
+[![npm downloads](https://img.shields.io/npm/dt/multi-connectionstring.svg)](https://www.npmjs.com/package/multi-connectionstring)
+[![GitHub release](https://img.shields.io/github/v/release/mazeor9/multi-connectionstring.svg)](https://github.com/mazeor9/multi-connectionstring/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
