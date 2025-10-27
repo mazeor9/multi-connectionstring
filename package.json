@@ -1,6 +1,6 @@
 {
   "name": "multi-connectionstring",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Manage multiple connection strings with quick switching via API and CLI. Supports JSON/YAML/INI, environment overrides.",
   "bin": {
     "mcs": "bin/mcs.js"
