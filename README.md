@@ -1,7 +1,7 @@
 # multi-connectionstring
 
 > 🧩 Manage multiple database connection strings from a single configuration file.  
-> Switch easily between environments, clients, or databases — via **CLI or API**.
+> Switch easily between environments, clients, or databases — via **CLI or Code**.
 
 [![npm version](https://img.shields.io/npm/v/multi-connectionstring.svg)](https://www.npmjs.com/package/multi-connectionstring)
 [![npm downloads](https://img.shields.io/npm/dt/multi-connectionstring.svg)](https://www.npmjs.com/package/multi-connectionstring)
