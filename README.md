@@ -172,7 +172,7 @@ mcs --help
 
 ---
 
-## 💻 API Usage
+## 💻 Usage
 
 You can also use `multi-connectionstring` inside your Node.js code.
 
@@ -379,4 +379,3 @@ MIT © 2025
 
 - 🐛 [Report a bug](https://github.com/mazeor9/multi-connectionstring/issues)
 - 💡 [Request a feature](https://github.com/mazeor9/multi-connectionstring/issues)
-- ❓ [Ask a question](https://github.com/mazeor9/multi-connectionstring/discussions)
